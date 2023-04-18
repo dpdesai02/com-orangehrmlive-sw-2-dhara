@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a82076cb-553d-46d3-a344-a35d76c9966e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ObeEuL0qfm7AGVMiyTY18OcSo5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ThinkPad/IdeaProjects/com-orangehrmlive-sw-2/jars/junit-4.13.2.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ThinkPad\IdeaProjects\com-orangehrmlive-sw-2\jars" />
+      <recent name="C:\Users\ThinkPad\IdeaProjects\com-orangehrmlive-sw-2\.idea\jars" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LoginTest">
+    <configuration name="ForgotPasswordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com-orangehrmlive-sw-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsuite" />
+      <option name="MAIN_CLASS_NAME" value="testsuite.ForgotPasswordTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForgotPasswordTest.userShouldNavigateToForgotPasswordPageSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com-orangehrmlive-sw-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsuite" />
+      <option name="MAIN_CLASS_NAME" value="testsuite.ForgotPasswordTest" />
+      <option name="METHOD_NAME" value="userShouldNavigateToForgotPasswordPageSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com-orangehrmlive-sw-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsuite" />
+      <option name="MAIN_CLASS_NAME" value="testsuite.LoginTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.userShouldLoginSuccessfullyWithValidCredentials" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com-orangehrmlive-sw-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsuite" />
+      <option name="MAIN_CLASS_NAME" value="testsuite.LoginTest" />
+      <option name="METHOD_NAME" value="userShouldLoginSuccessfullyWithValidCredentials" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testsuite in com-orangehrmlive-sw-2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com-orangehrmlive-sw-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsuite" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginTest" />
+        <item itemvalue="JUnit.testsuite in com-orangehrmlive-sw-2" />
+        <item itemvalue="JUnit.LoginTest.userShouldLoginSuccessfullyWithValidCredentials" />
+        <item itemvalue="JUnit.ForgotPasswordTest" />
+        <item itemvalue="JUnit.ForgotPasswordTest.userShouldNavigateToForgotPasswordPageSuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a82076cb-553d-46d3-a344-a35d76c9966e" name="Changes" comment="" />
+      <created>1681833604731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681833604731</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/com_orangehrmlive_sw_2$ForgotPasswordTest.ic" NAME="ForgotPasswordTest Coverage Results" MODIFIED="1681835659955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>testsuite.*</FILTER>
+    </SUITE>
+  </component>
+</project>
